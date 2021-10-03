@@ -1,0 +1,200 @@
+1-1 Intro to Tools:
+https://techelevator.zoom.us/rec/share/uRIja2e0SCgTRxs10KcjAJrmWuuqBBDkgIZ3esXUSyYEY2OeM2W0_is3DCuCYQvb.v94iebRR8lZh5d5x
+Passcode: &9j*$r45
+
+1-2 Variables & Data Types:
+https://techelevator.zoom.us/rec/share/Gvs11X1HG8de4VdStxnhHwOmOBf4mlqSjTt5LvNyUUT4l6AUWqUu0XmqaUmeDLOS.mq0K6bw9R2V4uGMk 
+Passcode: 83tq0PF$
+
+1-3 Conditional Statements:
+https://techelevator.zoom.us/rec/share/12vLS5RlgbIkZ6EzHAkGqoXddYZXOzMcryb7bPzqu8qYaIkPCguxjVYAoVkpUsXr.juQU4A7rEK5cDGYT 
+Passcode: B4B@1!K6
+
+1-4 Loops & Arrays:
+https://techelevator.zoom.us/rec/share/8WddTMk2gBJKRbgW5bO4GNmO83Tg1cpdCMsy9x_TD8zfj_6FQr4k37JRReMd8HGn.2fqkcvsxAGJna4yn 
+Passcode: Xv9U03*9
+
+1-5 Command Line Programs:
+https://techelevator.zoom.us/rec/share/-aI5dgbFfjoo3nb3PiZ2Lpzj8k_9xwTQ4xmFSKqcRQmPGCogmbCZ_q8QKDcIhRdJ.JJNu6Gb76tYgoS8L 
+Passcode: t=6Y7z3*
+
+Friday AMA:
+https://techelevator.zoom.us/rec/share/RPW45K3Vjqm7ynVUmEFAnRQe07vP5hFsHA1sbCUHZRGfPBQYUkS_FAfLpy3vd6AT.fPbjI5EzS7NnmcUb 
+Passcode: c$7s$NrB
+
+1-6 Strings and Intro to Objects:
+https://techelevator.zoom.us/rec/share/gDyqfd7vazs5PbfbHF72UQyq9k6D4fsZ2IvVTpx4v3E95qNWc_zz0Faae05MlNhx.OCMI6U3akVrfkS-i 
+Passcode: *du9Rzoy
+
+1-7 Collections Part 1: List, Stacks, and Queues
+https://techelevator.zoom.us/rec/share/hMkgdhIFJ1hMoBDdah6DUteq1fVSXWBlS1mAWwedl90VGvV3bu4nRUSdFvX6uL3q.DxNS8-eN3wGH8phY 
+Passcode: 46enzC6?
+
+1-8 Collections Part 2: Maps and Sets
+https://techelevator.zoom.us/rec/share/AS0_Pk1CXdhSktYy3aigJ_ZbNWMEqtfTT91vXkD2qrWlTZLlwYQK7axp2aBQlN5E.k3ESdnnGjYF6BRv4 
+Passcode: @yx7#7V?
+
+1-9 Classes, Objects, and Encapsulation
+https://techelevator.zoom.us/rec/share/tgvksoIaMoC1hgheC-Ok8pS3cxiRFjdSzNsTAQiVSDbmjjLEjnkWXropQDjxdtLh.OQD3Nq8u_tl7gsDk 
+Passcode: *8&T1q.k
+
+Friday AMA:
+https://techelevator.zoom.us/rec/share/PSNnl1iHljwbv4beq2BSp00Xki-Il0VxIH6mltnc4ivNk2exA7d6JsH_8IgYQgQ1.O4E9cNGiD-C9bN_G
+
+1-11 Inheritance 
+https://techelevator.zoom.us/rec/share/kBYpmMQrWFiCzThYrMwpRlcMgCSffTBpMA-qSjku05PQh2JUtfPfrMOXG-EweWGH.j1_MhdBqtT69oKbT 
+Passcode: an5Fh4=R
+
+1-12 Polymorphism, Interfaces
+https://techelevator.zoom.us/rec/share/pttaZiO8y2pClWTVpW-27i7fBuKIX0_MC8WHRuJjt_qWAk8fkBvKVByWInvLDa7Y.meDDBVhLH7CPy2cR 
+Passcode: JL2Y9^h4
+
+1-13 Inheritance Part 2, Abstract Classes
+https://techelevator.zoom.us/rec/share/qalHTarJrWzv0QPHciOXb5zWcLSCxJcuXGkJET9d5et8m0bKqQvn8TPQoOqeVRZd.mMVUG8DRicC4XaEe 
+Passcode: 4?.*jzC8
+
+1-14 Unit Testing
+https://techelevator.zoom.us/rec/share/7yHATYkEX3UNAxUJ2pOaLFC35WQlLxe3HNaKzlrdm2X4yPQgS6HGk1g6eNLijPj3.WM_kt50b6iKLzeGe 
+Passcode: 6J^jDP49
+
+Review (Pizza!)
+https://techelevator.zoom.us/rec/share/y51C1pSCkEQtVDR0DwJ2tRPV3se3wPUvCKB5yLanj1uylSNP24BaTm5Z9xZJqQ-I.tjadFDyF-y4Ms7Fb 
+Passcode: k9&YS9Pq
+
+Friday AMA:
+https://techelevator.zoom.us/rec/share/rxl4BuhLQw0mAH_pjbyd-DLdHQtFAl-q86f6Q0kEHYjdZ8xXOmGmCl9mhx6PWMJb.xpVIxpXOipHZUaqq
+
+1-16 Exceptions, Reading Files
+https://techelevator.zoom.us/rec/share/Mf5QSBdKYm7c3FrFcMAJ2I21I7fj-AkHaft3oDsfS4HsbrGeZbUJLHyKSeJw7lQU.0fNGaASQ0Rk_eLNR 
+Passcode: Ty6B*78U
+
+1-17 File Output
+https://techelevator.zoom.us/rec/share/8fjcKlkHWVRBlGo5Q1vj0DqgYJqgAdKKcQauViwvctI8oSSBsOtLwLfy7HchvMjA.pFXlj0mqJeF6XqfA 
+Passcode: .rq2RR7t
+
+1-18 Review (Capstone 1 Starter Code)
+https://techelevator.zoom.us/rec/share/VlRsBrNhTOZmLlFWc7nFPZD85NITsPfNm8GTZ2ay8xhWXbAlIhatMIjYFeyLTO3K.hG1qzCHqJBIFNQa2 
+Passcode: ?VeQd$8a
+
+Friday Capstone Debrief
+https://techelevator.zoom.us/rec/share/LRq2TVie4EwdmNEoG3V5e_b6jqMOlhso03J6dxNBZLX3cCl6IK7R6Vfb7XqPZEwW.GE9of018DEYxWVLT 
+Passcode: nx80%$4z
+
+2-2 Aggregate Functions and Group By
+https://techelevator.zoom.us/rec/share/_nMwofsKmLCIAXrEqIp5asuRnyG24OEz-GEk2YI5pn8HlY7Rcian_J6oYM_UHabW.9ETUY-juy_2npLr7 
+Passcode: 6w$irdMW
+
+2-3 Joins
+https://techelevator.zoom.us/rec/share/hqYzM7_d8jH63qzlyJuMxA7SvKgEAViRR_KNCsZZWSEfOnACgm7nFNnzS8RVA0pe.zBnjuWVU61kO6J8M 
+Passcode: #RHfYv8+
+
+2-4 Insert, Update, Delete
+https://techelevator.zoom.us/rec/share/rMxkaVqHRPsDanV-B0lTb0wllrHQwdwgfe-CRUOO8BDvrkUd3FxmvKhK-BfBItqz.bTnbiO2Vdshqw5tT 
+Passcode: =Z2hn2Q!
+
+2-5 Review
+https://techelevator.zoom.us/rec/share/izZG7RF8vu9W8x4iPmXXikNaJCRH2m9khonLgi1bI8HpgOL5CD48rbeV5tJvRkRy.0_7SHQzkMUXthY51 
+Passcode: 9#WAK5+u
+
+2-6 Database Design
+https://techelevator.zoom.us/rec/share/w1H0ydHDIbbf2whFazj-bMpYoxrxYAxnvMUoUA4sENRrDAahHwxZujId6QVm01vR.0IItZIS_2drAJb_r 
+Passcode: H.2j.h.W
+
+2-7 Database Connectivity DAO
+https://techelevator.zoom.us/rec/share/NNfj6fid98sVLcAZpFM_sKX1ii4VfCPnNie-BVd_f5wOiRA-2q0qBmwao0ht_nyJ.hE7pOh9cGkQX98l0 
+Passcode: N&N3U#B6
+
+2-8 Integration Testing
+https://techelevator.zoom.us/rec/share/Bxu1voWLDhG8gQPN-3foSkDD9r3qwHrfI6HB3ms0iH6Fi8EwG8YqOiB7uv3H9_-Y.kKZRL_QM6CMKwD0p 
+Passcode: 2&jRKCe=
+
+2-10 Review 
+https://techelevator.zoom.us/rec/share/1_k-hPunbtfKB331RqPL-O0ctq0MGbkmoq67S84AuzoT-65A97f4sN_dNtmWCehe.9msTTJ4FWRdImyDm 
+Passcode: !3AjY^f9
+
+2-11 HTTP Web Services GET
+https://techelevator.zoom.us/rec/share/Nn3qy1iWiSBiw3sZ3XmcZ-yflnXUx6g5Q_YIohwQdVB5Lnh0BjCPDHE8qRfOxG7M.2zBC9aP0xPJHLTC8 
+Passcode: 332!$CK?
+
+2-12 HTTP Web Services POST
+https://techelevator.zoom.us/rec/share/CIA8BJeg1jdmtsvpsnQTeYcSAkx3XJrHllBtpuy6_aN0HSvj08PztSLBNfM5UIFO.K9ttliocPGMuuCel 
+Passcode: tQZ3*59r
+
+2-13 HTTP Server Side API - Part1
+https://techelevator.zoom.us/rec/share/UvDVNhYBOdvPtSZFlyqQJjQw1DKOsnr199T7jXCaG1S7AacbQVTWrqUSsCyLMWAX._2u7RQSghcxgUXJY 
+Passcode: ozH%=J9x
+
+2-14 HTTP Server Side API - Part1
+https://techelevator.zoom.us/rec/share/Pc8r984CMCO3ARvmB0T-KJLt6K_YST7GiB_SokXs_tRfudeFPwKA_gYciAVSqAFs.VSIYFDVeSW3UWviA 
+Passcode: Ge&xb4zG
+
+2-15 Review
+https://techelevator.zoom.us/rec/share/3c85s89qGycUiukynMac_jlTq_sQlas0cCwPMgiHQN8AIX3ktW7D2tBekyAqmnH5.ANWdk9X8XafU1CkB 
+Passcode: P6uqV7@U
+
+2-16 Authentication
+https://techelevator.zoom.us/rec/share/GU2NM6zD0-D0WTmnS2wBXAzSTe2RCibN98-i4gNfuB97nDlvn7SoV7TuIQjeHiWY.7sdI1LIVt7JmvjcB 
+Passcode: JH5PR+3X
+
+2-17 Review
+https://techelevator.zoom.us/rec/share/zFLRWPUXqUJoycJIs4aT6DAXCjFT43v8zU_irTVq8Qekn-CAXrS3Q6JNfYEOxerk.p3ELYIU7bWO593ad 
+Passcode: L4sQTzc$
+
+2-18 Capstone Walkthrough
+https://techelevator.zoom.us/rec/share/5bNA2JBrbMAltcDBIzPVYQmsao4CcH3krUhRFjotUxFj_VjLSWUwRyN0d7SBpOnx.tH3aDOZE48REXPLF 
+Passcode: &56hXRPt
+
+3-1 HTML and CSS
+https://techelevator.zoom.us/rec/share/9nbZ9N9N7UGTyHKqHYvAoKo02gbeI8ionnhijh0UW2h98Tk-icjWc8DPLSVB9V0O.MUqFjm-If7vx0UN_
+
+3-2 CSS Selectors
+https://techelevator.zoom.us/rec/share/nNAQTZ0WIJdaGQT5fbqtjqmX7zU5ximuQV9HqzIRrX7aU0kEy6yFGGu7vAgyNtuc.Gqn5X6u2-zt_Au2k
+
+3-3 CSS Grid Layout
+https://techelevator.zoom.us/rec/share/L528W5Kpu_Zg_qYJT4Y_hF_x463FAULQ0Xih8xACtp9A8JVsGQaKDwc4gSwT2Ky_.vikV7GTBPaXTIP5a
+
+3-4  CSS Flexbox
+https://techelevator.zoom.us/rec/share/n9S3tIiqfxUe-EWAAuip8Uwu9L_IO9hlG_QDd7I4Mwm7tmZY9yVAbhK_ScC3ykQV.yeUUbC4dJhnOCiSb
+
+3-5 HTML/CSS Review Day
+https://techelevator.zoom.us/rec/share/yGvL_08Q06vydcv1RR9od9fdCEr4QUBjZosHFoxADY4GJWHwZQgASMbvt_Ff0TBM.D7M0IqWoj6UXbwwZ
+
+3-6 Intro to JavaScript
+https://techelevator.zoom.us/rec/share/Z_wHFe8ID9giE8xUxIZluZk3Qv37P20bkC3QlP1pIOAfyfqFF6510k9QYKKPDcWY.JdpCPfUC2Nu7gA6k
+
+3-7 JavaScript Functions
+https://techelevator.zoom.us/rec/share/WEMQSdLkY6-Igul7esq6Iz506SpOmiKtlw70wZoV8qbCgxHPWvaBxWUFjeVwXjyW.WTzeF4UTHB1G2FnS
+
+3-8 DOM
+https://techelevator.zoom.us/rec/share/4CrMzjrsBwF6T_Rd1LgEtKBYgtbVibI2rJ-OxFHzRF__AMcLtGAgMoG01h1DsxBt.QVFweROEs2O-FgBA
+
+3-9 Event Handling
+https://techelevator.zoom.us/rec/share/iDti2OKPtXaBWmC8J7kQ4yENuWV8mOkMrYCquZvVBKiDptDA_3cp-iJyM3saSbbt.IlpmavWJ5mIG4TJD
+
+3-10 Review (API fetches)
+https://techelevator.zoom.us/rec/share/0cQZT9Bszdzt5ZuStHj1V9lConShrFLh19WSw6r_99zB-f6hXIZvalF3mPbfc_lD.YZUFhD3Ek61FQYkG
+
+3-11 Intro to Vue
+https://techelevator.zoom.us/rec/share/G-JKmFzcHweihkpvlWP1EFxq6BlzImnjtfi7Rwf0aRPEJBgVZ7-PXvIHaYYGtByc.rVyQPCoA17iuuhBD
+
+Bonus Lecture - API calls with Vanilla JS
+https://techelevator.zoom.us/rec/share/SXvxI8wvLRck6UDpco0c8ITjI8yiF9hgjJgB6_0TE5e8CRrUEAfckhMt2C2aZ4bs.1_tnz4vwvS-1U_Jn
+
+3-12 Vue Event Handling
+https://techelevator.zoom.us/rec/share/CTUCBYDd_GApswvKQk-xLed2yU-Fm8Q4cE_JbTXHXkDmmeQJFLcgTZlzieQXVbOl.X7SYW2SgUtPc71BH
+
+3-13 Vue Component Communication
+https://techelevator.zoom.us/rec/share/jFUGdQA-vOCwieAIUaoYNTdkiJ4y-zJaCrKZnzhSQrEjk31pl63sNE5_xWkaSrP3.jXNw4J3bP2dUkVWP
+
+3-15 Vue Router
+https://techelevator.zoom.us/rec/share/KhHY3XSBjvbfdMh4AYHLZQ77V7rimTXMNStSXYlMP6zRq8Osl-_nXe3tHldLRP3B.MxfMg0F2JJmcGQpE
+
+3-16 - Vue and Axios - GET
+https://techelevator.zoom.us/rec/share/0MDorEcdEBUG-ShLq9JJIuTUvOKmosv5Hv8fMr98HosOV_CnC99420_qrB6CScmU.k9KzWMkfTZlYCtyU
+
+3-17 Vue and Axios - POST
+https://techelevator.zoom.us/rec/share/-dKLea2UJzTFK3vokCK5F2svV9l5Hbt77hCdHz4XmM75OPn3nbtVN-W7QxkSDerH.x5gT457PBVNuxkTz
+
+3-18 Vue Review - FINAL
+https://techelevator.zoom.us/rec/share/Bb8-yyl2GY9BOEIX3dY4p685MOa_2vo_l4X7cAigpMymynkxZEoh8RpdG3rZWevY.H0kXc0aqXIZjlj6u?startTime=1631883751000
+https://techelevator.zoom.us/rec/share/SzzWpBu9vttYK7Le1srv5x09sMFNah_qcdMJx6XW4Y_ax5An0wXUGk-ym3m_hSvR.q1tZOzQxDofv0RGA?startTime=1631892445000
